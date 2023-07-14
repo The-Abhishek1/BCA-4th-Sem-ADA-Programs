@@ -13,7 +13,7 @@ void main()
     printf("\nEnter the Array Elements:");
     for(i=0;i<n;i++)
     scanf("%d",&a[i]);
-    printf("\nAarry Elements Before Sorting:");
+    printf("\nArray Elements Before Sorting:");
     for(i=0;i<n;i++)
     printf("%d\t",a[i]);
     for(i=1;i<n;i++)
