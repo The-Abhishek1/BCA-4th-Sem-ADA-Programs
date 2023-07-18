@@ -22,8 +22,8 @@ void main()
         for(j=0;j<n;j++)
         {
             printf("%d\t",d[i][j]);
-            printf("\n");
         }
+        printf("\n");
     }
 }
 int min(int a,int b)
